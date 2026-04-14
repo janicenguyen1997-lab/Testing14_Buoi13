@@ -99,6 +99,14 @@ public class Buoi_3 {
         //chỉ chuyển int SỐ sang string SỐ
         System.out.println("Số 6: " +so6);
 
+        //đây là dòng code mới
+        //-> line xanh lá cây xuất hiện ở nhánh phụ
+        // ghi nhận những thay đổi ở nhánh phụ
+
+        //để đây lên github -> mở terminal
+        // gõ "git add -A" --> đẩy file có sự thay đổi vào git
+        // gõ "git commit -m "tên muốn dung"
+
 
 
 
